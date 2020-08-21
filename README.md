@@ -1,2 +1,5 @@
-# enrico
-A curated mobile app design database
+# Enrico
+
+A curated mobile app design database.
+
+TBA
