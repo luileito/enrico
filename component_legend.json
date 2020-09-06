@@ -1,0 +1,194 @@
+{
+  "Web View": {
+    "rgb": [
+      66, 
+      166, 
+      246
+    ], 
+    "hex": "#42A5F5"
+  }, 
+  "List Item": {
+    "rgb": [
+      256, 
+      225, 
+      179
+    ], 
+    "hex": "#FFE0B2"
+  }, 
+  "Multi-Tab": {
+    "rgb": [
+      256, 
+      242, 
+      118
+    ], 
+    "hex": "#FFF176"
+  }, 
+  "Input": {
+    "rgb": [
+      145, 
+      203, 
+      250
+    ], 
+    "hex": "#90CAF9"
+  }, 
+  "Text Button": {
+    "rgb": [
+      206, 
+      221, 
+      57
+    ], 
+    "hex": "#CDDC39"
+  }, 
+  "Slider": {
+    "rgb": [
+      206, 
+      220, 
+      221
+    ], 
+    "hex": "#CDDBDC"
+  }, 
+  "Background Image": {
+    "rgb": [
+      211, 
+      20, 
+      83
+    ], 
+    "hex": "#D21453"
+  }, 
+  "Advertisement": {
+    "rgb": [
+      13, 
+      71, 
+      162
+    ], 
+    "hex": "#0D47A1"
+  }, 
+  "Card": {
+    "rgb": [
+      216, 
+      190, 
+      227
+    ], 
+    "hex": "#D7BDE2"
+  }, 
+  "Bottom Navigation": {
+    "rgb": [
+      187, 
+      104, 
+      201
+    ], 
+    "hex": "#BA68C8"
+  }, 
+  "Modal": {
+    "rgb": [
+      0, 
+      256, 
+      205
+    ], 
+    "hex": "#00FFCC"
+  }, 
+  "On/Off Switch": {
+    "rgb": [
+      79, 
+      196, 
+      248
+    ], 
+    "hex": "#4FC3F7"
+  }, 
+  "Button Bar": {
+    "rgb": [
+      256, 
+      206, 
+      211
+    ], 
+    "hex": "#FFCDD2"
+  }, 
+  "Number Stepper": {
+    "rgb": [
+      175, 
+      214, 
+      130
+    ], 
+    "hex": "#AED581"
+  }, 
+  "Text": {
+    "rgb": [
+      74, 
+      20, 
+      141
+    ], 
+    "hex": "#4A148C"
+  }, 
+  "Map View": {
+    "rgb": [
+      226, 
+      191, 
+      232
+    ], 
+    "hex": "#E1BEE7"
+  }, 
+  "Checkbox": {
+    "rgb": [
+      256, 
+      139, 
+      101
+    ], 
+    "hex": "#FF8A65"
+  }, 
+  "Date Picker": {
+    "rgb": [
+      205, 
+      102, 
+      154
+    ], 
+    "hex": "#CC6699"
+  }, 
+  "Image": {
+    "rgb": [
+      241, 
+      98, 
+      147
+    ], 
+    "hex": "#F06292"
+  }, 
+  "Drawer": {
+    "rgb": [
+      103, 
+      58, 
+      184
+    ], 
+    "hex": "#673AB7"
+  }, 
+  "Radio Button": {
+    "rgb": [
+      256, 
+      184, 
+      77
+    ], 
+    "hex": "#FFB74D"
+  }, 
+  "Video": {
+    "rgb": [
+      0, 
+      205, 
+      0
+    ], 
+    "hex": "#00CC00"
+  }, 
+  "Toolbar": {
+    "rgb": [
+      77, 
+      209, 
+      226
+    ], 
+    "hex": "#4DD0E1"
+  }, 
+  "Pager Indicator": {
+    "rgb": [
+      249, 
+      188, 
+      209
+    ], 
+    "hex": "#F8BBD0"
+  }
+}

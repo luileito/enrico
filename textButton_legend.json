@@ -1,0 +1,1578 @@
+{
+  "restore": {
+    "rgb": [
+      205, 
+      219, 
+      104
+    ], 
+    "hex": "#ccda68"
+  }, 
+  "all": {
+    "rgb": [
+      205, 
+      219, 
+      191
+    ], 
+    "hex": "#ccdabe"
+  }, 
+  "feedback": {
+    "rgb": [
+      205, 
+      219, 
+      99
+    ], 
+    "hex": "#ccda63"
+  }, 
+  "show": {
+    "rgb": [
+      205, 
+      219, 
+      173
+    ], 
+    "hex": "#ccdaac"
+  }, 
+  "skip": {
+    "rgb": [
+      205, 
+      219, 
+      185
+    ], 
+    "hex": "#ccdab8"
+  }, 
+  "random": {
+    "rgb": [
+      205, 
+      219, 
+      34
+    ], 
+    "hex": "#ccda22"
+  }, 
+  "results": {
+    "rgb": [
+      205, 
+      219, 
+      63
+    ], 
+    "hex": "#ccda3f"
+  }, 
+  "radar": {
+    "rgb": [
+      205, 
+      219, 
+      124
+    ], 
+    "hex": "#ccda7c"
+  }, 
+  "go": {
+    "rgb": [
+      205, 
+      219, 
+      193
+    ], 
+    "hex": "#ccdac0"
+  }, 
+  "polish": {
+    "rgb": [
+      205, 
+      219, 
+      14
+    ], 
+    "hex": "#ccda0e"
+  }, 
+  "round trip": {
+    "rgb": [
+      205, 
+      219, 
+      30
+    ], 
+    "hex": "#ccda1e"
+  }, 
+  "find": {
+    "rgb": [
+      205, 
+      219, 
+      160
+    ], 
+    "hex": "#ccda9f"
+  }, 
+  "help": {
+    "rgb": [
+      205, 
+      219, 
+      126
+    ], 
+    "hex": "#ccda7e"
+  }, 
+  "pause": {
+    "rgb": [
+      205, 
+      219, 
+      52
+    ], 
+    "hex": "#ccda34"
+  }, 
+  "calculate": {
+    "rgb": [
+      205, 
+      219, 
+      53
+    ], 
+    "hex": "#ccda35"
+  }, 
+  "vibration": {
+    "rgb": [
+      205, 
+      219, 
+      57
+    ], 
+    "hex": "#ccda39"
+  }, 
+  "menu": {
+    "rgb": [
+      205, 
+      219, 
+      69
+    ], 
+    "hex": "#ccda45"
+  }, 
+  "appetizers": {
+    "rgb": [
+      205, 
+      219, 
+      75
+    ], 
+    "hex": "#ccda4b"
+  }, 
+  "add": {
+    "rgb": [
+      205, 
+      219, 
+      189
+    ], 
+    "hex": "#ccdabc"
+  }, 
+  "book": {
+    "rgb": [
+      205, 
+      219, 
+      179
+    ], 
+    "hex": "#ccdab2"
+  }, 
+  "activate": {
+    "rgb": [
+      205, 
+      219, 
+      78
+    ], 
+    "hex": "#ccda4e"
+  }, 
+  "advanced": {
+    "rgb": [
+      205, 
+      219, 
+      43
+    ], 
+    "hex": "#ccda2b"
+  }, 
+  "save": {
+    "rgb": [
+      205, 
+      219, 
+      177
+    ], 
+    "hex": "#ccdab0"
+  }, 
+  "info": {
+    "rgb": [
+      205, 
+      219, 
+      156
+    ], 
+    "hex": "#ccda9b"
+  }, 
+  "premium": {
+    "rgb": [
+      205, 
+      219, 
+      110
+    ], 
+    "hex": "#ccda6e"
+  }, 
+  "auto": {
+    "rgb": [
+      205, 
+      219, 
+      122
+    ], 
+    "hex": "#ccda7a"
+  }, 
+  "faq": {
+    "rgb": [
+      205, 
+      219, 
+      51
+    ], 
+    "hex": "#ccda33"
+  }, 
+  "shop now": {
+    "rgb": [
+      205, 
+      219, 
+      46
+    ], 
+    "hex": "#ccda2e"
+  }, 
+  "redeem": {
+    "rgb": [
+      205, 
+      219, 
+      42
+    ], 
+    "hex": "#ccda2a"
+  }, 
+  "facebook": {
+    "rgb": [
+      205, 
+      219, 
+      182
+    ], 
+    "hex": "#ccdab5"
+  }, 
+  "day": {
+    "rgb": [
+      205, 
+      219, 
+      145
+    ], 
+    "hex": "#ccda90"
+  }, 
+  "categories": {
+    "rgb": [
+      205, 
+      219, 
+      71
+    ], 
+    "hex": "#ccda47"
+  }, 
+  "instructions": {
+    "rgb": [
+      205, 
+      219, 
+      17
+    ], 
+    "hex": "#ccda11"
+  }, 
+  "trk": {
+    "rgb": [
+      205, 
+      219, 
+      0
+    ], 
+    "hex": "#ccda00"
+  }, 
+  "rotate": {
+    "rgb": [
+      205, 
+      219, 
+      23
+    ], 
+    "hex": "#ccda17"
+  }, 
+  "name": {
+    "rgb": [
+      205, 
+      219, 
+      85
+    ], 
+    "hex": "#ccda55"
+  }, 
+  "remember me": {
+    "rgb": [
+      205, 
+      219, 
+      16
+    ], 
+    "hex": "#ccda10"
+  }, 
+  "settings": {
+    "rgb": [
+      205, 
+      219, 
+      166
+    ], 
+    "hex": "#ccdaa5"
+  }, 
+  "edit": {
+    "rgb": [
+      205, 
+      219, 
+      169
+    ], 
+    "hex": "#ccdaa8"
+  }, 
+  "always": {
+    "rgb": [
+      205, 
+      219, 
+      123
+    ], 
+    "hex": "#ccda7b"
+  }, 
+  "button": {
+    "rgb": [
+      205, 
+      219, 
+      88
+    ], 
+    "hex": "#ccda58"
+  }, 
+  "manual": {
+    "rgb": [
+      205, 
+      219, 
+      64
+    ], 
+    "hex": "#ccda40"
+  }, 
+  "upload": {
+    "rgb": [
+      205, 
+      219, 
+      45
+    ], 
+    "hex": "#ccda2d"
+  }, 
+  "refresh": {
+    "rgb": [
+      205, 
+      219, 
+      143
+    ], 
+    "hex": "#ccda8e"
+  }, 
+  "privacy policy": {
+    "rgb": [
+      205, 
+      219, 
+      90
+    ], 
+    "hex": "#ccda5a"
+  }, 
+  "continue": {
+    "rgb": [
+      205, 
+      219, 
+      180
+    ], 
+    "hex": "#ccdab3"
+  }, 
+  "exercises": {
+    "rgb": [
+      205, 
+      219, 
+      20
+    ], 
+    "hex": "#ccda14"
+  }, 
+  "history": {
+    "rgb": [
+      205, 
+      219, 
+      131
+    ], 
+    "hex": "#ccda82"
+  }, 
+  "popular": {
+    "rgb": [
+      205, 
+      219, 
+      58
+    ], 
+    "hex": "#ccda3a"
+  }, 
+  "view": {
+    "rgb": [
+      205, 
+      219, 
+      181
+    ], 
+    "hex": "#ccdab4"
+  }, 
+  "google": {
+    "rgb": [
+      205, 
+      219, 
+      141
+    ], 
+    "hex": "#ccda8c"
+  }, 
+  "deutsch": {
+    "rgb": [
+      205, 
+      219, 
+      31
+    ], 
+    "hex": "#ccda1f"
+  }, 
+  "list": {
+    "rgb": [
+      205, 
+      219, 
+      178
+    ], 
+    "hex": "#ccdab1"
+  }, 
+  "twitter": {
+    "rgb": [
+      205, 
+      219, 
+      98
+    ], 
+    "hex": "#ccda62"
+  }, 
+  "cancelar": {
+    "rgb": [
+      205, 
+      219, 
+      2
+    ], 
+    "hex": "#ccda02"
+  }, 
+  "terrain": {
+    "rgb": [
+      205, 
+      219, 
+      36
+    ], 
+    "hex": "#ccda24"
+  }, 
+  "back": {
+    "rgb": [
+      205, 
+      219, 
+      194
+    ], 
+    "hex": "#ccdac1"
+  }, 
+  "weather alerts": {
+    "rgb": [
+      205, 
+      219, 
+      112
+    ], 
+    "hex": "#ccda70"
+  }, 
+  "past": {
+    "rgb": [
+      205, 
+      219, 
+      119
+    ], 
+    "hex": "#ccda77"
+  }, 
+  "unlock": {
+    "rgb": [
+      205, 
+      219, 
+      95
+    ], 
+    "hex": "#ccda5f"
+  }, 
+  "replay": {
+    "rgb": [
+      205, 
+      219, 
+      37
+    ], 
+    "hex": "#ccda25"
+  }, 
+  "video": {
+    "rgb": [
+      205, 
+      219, 
+      147
+    ], 
+    "hex": "#ccda92"
+  }, 
+  "connect": {
+    "rgb": [
+      205, 
+      219, 
+      129
+    ], 
+    "hex": "#ccda80"
+  }, 
+  "follow": {
+    "rgb": [
+      205, 
+      219, 
+      159
+    ], 
+    "hex": "#ccda9e"
+  }, 
+  "download": {
+    "rgb": [
+      205, 
+      219, 
+      164
+    ], 
+    "hex": "#ccdaa3"
+  }, 
+  "lock screen weather banner": {
+    "rgb": [
+      205, 
+      219, 
+      66
+    ], 
+    "hex": "#ccda42"
+  }, 
+  "girl": {
+    "rgb": [
+      205, 
+      219, 
+      10
+    ], 
+    "hex": "#ccda0a"
+  }, 
+  "hourly": {
+    "rgb": [
+      205, 
+      219, 
+      116
+    ], 
+    "hex": "#ccda74"
+  }, 
+  "retry": {
+    "rgb": [
+      205, 
+      219, 
+      186
+    ], 
+    "hex": "#ccdab9"
+  }, 
+  "hide": {
+    "rgb": [
+      205, 
+      219, 
+      81
+    ], 
+    "hex": "#ccda51"
+  }, 
+  "contacts": {
+    "rgb": [
+      205, 
+      219, 
+      70
+    ], 
+    "hex": "#ccda46"
+  }, 
+  "forecast": {
+    "rgb": [
+      205, 
+      219, 
+      68
+    ], 
+    "hex": "#ccda44"
+  }, 
+  "lights": {
+    "rgb": [
+      205, 
+      219, 
+      97
+    ], 
+    "hex": "#ccda61"
+  }, 
+  "dutch": {
+    "rgb": [
+      205, 
+      219, 
+      7
+    ], 
+    "hex": "#ccda07"
+  }, 
+  "donate": {
+    "rgb": [
+      205, 
+      219, 
+      47
+    ], 
+    "hex": "#ccda2f"
+  }, 
+  "email": {
+    "rgb": [
+      205, 
+      219, 
+      152
+    ], 
+    "hex": "#ccda97"
+  }, 
+  "latin": {
+    "rgb": [
+      205, 
+      219, 
+      12
+    ], 
+    "hex": "#ccda0c"
+  }, 
+  "business": {
+    "rgb": [
+      205, 
+      219, 
+      62
+    ], 
+    "hex": "#ccda3e"
+  }, 
+  "schedule": {
+    "rgb": [
+      205, 
+      219, 
+      59
+    ], 
+    "hex": "#ccda3b"
+  }, 
+  "free": {
+    "rgb": [
+      205, 
+      219, 
+      151
+    ], 
+    "hex": "#ccda96"
+  }, 
+  "logout": {
+    "rgb": [
+      205, 
+      219, 
+      74
+    ], 
+    "hex": "#ccda4a"
+  }, 
+  "undo": {
+    "rgb": [
+      205, 
+      219, 
+      48
+    ], 
+    "hex": "#ccda30"
+  }, 
+  "directions": {
+    "rgb": [
+      205, 
+      219, 
+      41
+    ], 
+    "hex": "#ccda29"
+  }, 
+  "news": {
+    "rgb": [
+      205, 
+      219, 
+      114
+    ], 
+    "hex": "#ccda72"
+  }, 
+  "post": {
+    "rgb": [
+      205, 
+      219, 
+      154
+    ], 
+    "hex": "#ccda99"
+  }, 
+  "paste": {
+    "rgb": [
+      205, 
+      219, 
+      26
+    ], 
+    "hex": "#ccda1a"
+  }, 
+  "i have an account": {
+    "rgb": [
+      205, 
+      219, 
+      133
+    ], 
+    "hex": "#ccda84"
+  }, 
+  "boy": {
+    "rgb": [
+      205, 
+      219, 
+      9
+    ], 
+    "hex": "#ccda09"
+  }, 
+  "about": {
+    "rgb": [
+      205, 
+      219, 
+      121
+    ], 
+    "hex": "#ccda79"
+  }, 
+  "ok": {
+    "rgb": [
+      205, 
+      219, 
+      192
+    ], 
+    "hex": "#ccdabf"
+  }, 
+  "filipino": {
+    "rgb": [
+      205, 
+      219, 
+      3
+    ], 
+    "hex": "#ccda03"
+  }, 
+  "route": {
+    "rgb": [
+      205, 
+      219, 
+      65
+    ], 
+    "hex": "#ccda41"
+  }, 
+  "give permission": {
+    "rgb": [
+      205, 
+      219, 
+      28
+    ], 
+    "hex": "#ccda1c"
+  }, 
+  "filter": {
+    "rgb": [
+      205, 
+      219, 
+      136
+    ], 
+    "hex": "#ccda87"
+  }, 
+  "not now": {
+    "rgb": [
+      205, 
+      219, 
+      93
+    ], 
+    "hex": "#ccda5d"
+  }, 
+  "login": {
+    "rgb": [
+      205, 
+      219, 
+      195
+    ], 
+    "hex": "#ccdac2"
+  }, 
+  "got it": {
+    "rgb": [
+      205, 
+      219, 
+      192
+    ], 
+    "hex": "#ccdabf"
+  }, 
+  "options": {
+    "rgb": [
+      205, 
+      219, 
+      94
+    ], 
+    "hex": "#ccda5e"
+  }, 
+  "block": {
+    "rgb": [
+      205, 
+      219, 
+      79
+    ], 
+    "hex": "#ccda4f"
+  }, 
+  "nearby": {
+    "rgb": [
+      205, 
+      219, 
+      55
+    ], 
+    "hex": "#ccda37"
+  }, 
+  "comment": {
+    "rgb": [
+      205, 
+      219, 
+      135
+    ], 
+    "hex": "#ccda86"
+  }, 
+  "color": {
+    "rgb": [
+      205, 
+      219, 
+      61
+    ], 
+    "hex": "#ccda3d"
+  }, 
+  "italiano": {
+    "rgb": [
+      205, 
+      219, 
+      21
+    ], 
+    "hex": "#ccda15"
+  }, 
+  "united states": {
+    "rgb": [
+      205, 
+      219, 
+      19
+    ], 
+    "hex": "#ccda13"
+  }, 
+  "subscribe": {
+    "rgb": [
+      205, 
+      219, 
+      84
+    ], 
+    "hex": "#ccda54"
+  }, 
+  "set": {
+    "rgb": [
+      205, 
+      219, 
+      184
+    ], 
+    "hex": "#ccdab7"
+  }, 
+  "san francisco ca": {
+    "rgb": [
+      205, 
+      219, 
+      1
+    ], 
+    "hex": "#ccda01"
+  }, 
+  "female": {
+    "rgb": [
+      205, 
+      219, 
+      103
+    ], 
+    "hex": "#ccda67"
+  }, 
+  "spanish": {
+    "rgb": [
+      205, 
+      219, 
+      35
+    ], 
+    "hex": "#ccda23"
+  }, 
+  "apply": {
+    "rgb": [
+      205, 
+      219, 
+      125
+    ], 
+    "hex": "#ccda7d"
+  }, 
+  "message": {
+    "rgb": [
+      205, 
+      219, 
+      148
+    ], 
+    "hex": "#ccda93"
+  }, 
+  "open": {
+    "rgb": [
+      205, 
+      219, 
+      107
+    ], 
+    "hex": "#ccda6b"
+  }, 
+  "select": {
+    "rgb": [
+      205, 
+      219, 
+      162
+    ], 
+    "hex": "#ccdaa1"
+  }, 
+  "browse": {
+    "rgb": [
+      205, 
+      219, 
+      96
+    ], 
+    "hex": "#ccda60"
+  }, 
+  "unknown": {
+    "rgb": [
+      205, 
+      219, 
+      27
+    ], 
+    "hex": "#ccda1b"
+  }, 
+  "support": {
+    "rgb": [
+      205, 
+      219, 
+      72
+    ], 
+    "hex": "#ccda48"
+  }, 
+  "next": {
+    "rgb": [
+      205, 
+      219, 
+      190
+    ], 
+    "hex": "#ccdabd"
+  }, 
+  "filmstrip": {
+    "rgb": [
+      205, 
+      219, 
+      102
+    ], 
+    "hex": "#ccda66"
+  }, 
+  "live": {
+    "rgb": [
+      205, 
+      219, 
+      111
+    ], 
+    "hex": "#ccda6f"
+  }, 
+  "camera": {
+    "rgb": [
+      205, 
+      219, 
+      49
+    ], 
+    "hex": "#ccda31"
+  }, 
+  "music": {
+    "rgb": [
+      205, 
+      219, 
+      86
+    ], 
+    "hex": "#ccda56"
+  }, 
+  "change": {
+    "rgb": [
+      205, 
+      219, 
+      163
+    ], 
+    "hex": "#ccdaa2"
+  }, 
+  "call": {
+    "rgb": [
+      205, 
+      219, 
+      138
+    ], 
+    "hex": "#ccda89"
+  }, 
+  "preview": {
+    "rgb": [
+      205, 
+      219, 
+      40
+    ], 
+    "hex": "#ccda28"
+  }, 
+  "checkout": {
+    "rgb": [
+      205, 
+      219, 
+      67
+    ], 
+    "hex": "#ccda43"
+  }, 
+  "today": {
+    "rgb": [
+      205, 
+      219, 
+      56
+    ], 
+    "hex": "#ccda38"
+  }, 
+  "more": {
+    "rgb": [
+      205, 
+      219, 
+      187
+    ], 
+    "hex": "#ccdaba"
+  }, 
+  "website": {
+    "rgb": [
+      205, 
+      219, 
+      38
+    ], 
+    "hex": "#ccda26"
+  }, 
+  "danish": {
+    "rgb": [
+      205, 
+      219, 
+      6
+    ], 
+    "hex": "#ccda06"
+  }, 
+  "buy": {
+    "rgb": [
+      205, 
+      219, 
+      171
+    ], 
+    "hex": "#ccdaaa"
+  }, 
+  "invite": {
+    "rgb": [
+      205, 
+      219, 
+      134
+    ], 
+    "hex": "#ccda85"
+  }, 
+  "both": {
+    "rgb": [
+      205, 
+      219, 
+      11
+    ], 
+    "hex": "#ccda0b"
+  }, 
+  "search": {
+    "rgb": [
+      205, 
+      219, 
+      176
+    ], 
+    "hex": "#ccdaaf"
+  }, 
+  "delivery": {
+    "rgb": [
+      205, 
+      219, 
+      161
+    ], 
+    "hex": "#ccdaa0"
+  }, 
+  "notifications": {
+    "rgb": [
+      205, 
+      219, 
+      120
+    ], 
+    "hex": "#ccda78"
+  }, 
+  "export": {
+    "rgb": [
+      205, 
+      219, 
+      39
+    ], 
+    "hex": "#ccda27"
+  }, 
+  "accept": {
+    "rgb": [
+      205, 
+      219, 
+      150
+    ], 
+    "hex": "#ccda95"
+  }, 
+  "copy": {
+    "rgb": [
+      205, 
+      219, 
+      80
+    ], 
+    "hex": "#ccda50"
+  }, 
+  "sound": {
+    "rgb": [
+      205, 
+      219, 
+      117
+    ], 
+    "hex": "#ccda75"
+  }, 
+  "distance": {
+    "rgb": [
+      205, 
+      219, 
+      32
+    ], 
+    "hex": "#ccda20"
+  }, 
+  "none": {
+    "rgb": [
+      205, 
+      219, 
+      29
+    ], 
+    "hex": "#ccda1d"
+  }, 
+  "translate": {
+    "rgb": [
+      205, 
+      219, 
+      33
+    ], 
+    "hex": "#ccda21"
+  }, 
+  "join": {
+    "rgb": [
+      205, 
+      219, 
+      142
+    ], 
+    "hex": "#ccda8d"
+  }, 
+  "default": {
+    "rgb": [
+      205, 
+      219, 
+      144
+    ], 
+    "hex": "#ccda8f"
+  }, 
+  "rate": {
+    "rgb": [
+      205, 
+      219, 
+      167
+    ], 
+    "hex": "#ccdaa6"
+  }, 
+  "future": {
+    "rgb": [
+      205, 
+      219, 
+      87
+    ], 
+    "hex": "#ccda57"
+  }, 
+  "install": {
+    "rgb": [
+      205, 
+      219, 
+      165
+    ], 
+    "hex": "#ccdaa4"
+  }, 
+  "side dishes": {
+    "rgb": [
+      205, 
+      219, 
+      108
+    ], 
+    "hex": "#ccda6c"
+  }, 
+  "male": {
+    "rgb": [
+      205, 
+      219, 
+      130
+    ], 
+    "hex": "#ccda81"
+  }, 
+  "agree": {
+    "rgb": [
+      205, 
+      219, 
+      174
+    ], 
+    "hex": "#ccdaad"
+  }, 
+  "delete": {
+    "rgb": [
+      205, 
+      219, 
+      183
+    ], 
+    "hex": "#ccdab6"
+  }, 
+  "sort": {
+    "rgb": [
+      205, 
+      219, 
+      91
+    ], 
+    "hex": "#ccda5b"
+  }, 
+  "stop": {
+    "rgb": [
+      205, 
+      219, 
+      113
+    ], 
+    "hex": "#ccda71"
+  }, 
+  "register": {
+    "rgb": [
+      205, 
+      219, 
+      140
+    ], 
+    "hex": "#ccda8b"
+  }, 
+  "scan": {
+    "rgb": [
+      205, 
+      219, 
+      76
+    ], 
+    "hex": "#ccda4c"
+  }, 
+  "share": {
+    "rgb": [
+      205, 
+      219, 
+      172
+    ], 
+    "hex": "#ccdaab"
+  }, 
+  "locations": {
+    "rgb": [
+      205, 
+      219, 
+      146
+    ], 
+    "hex": "#ccda91"
+  }, 
+  "one way": {
+    "rgb": [
+      205, 
+      219, 
+      25
+    ], 
+    "hex": "#ccda19"
+  }, 
+  "enable": {
+    "rgb": [
+      205, 
+      219, 
+      127
+    ], 
+    "hex": "#ccda7f"
+  }, 
+  "chat": {
+    "rgb": [
+      205, 
+      219, 
+      77
+    ], 
+    "hex": "#ccda4d"
+  }, 
+  "home": {
+    "rgb": [
+      205, 
+      219, 
+      157
+    ], 
+    "hex": "#ccda9c"
+  }, 
+  "close": {
+    "rgb": [
+      205, 
+      219, 
+      168
+    ], 
+    "hex": "#ccdaa7"
+  }, 
+  "breakfast": {
+    "rgb": [
+      205, 
+      219, 
+      82
+    ], 
+    "hex": "#ccda52"
+  }, 
+  "create": {
+    "rgb": [
+      205, 
+      219, 
+      188
+    ], 
+    "hex": "#ccdabb"
+  }, 
+  "calendar": {
+    "rgb": [
+      205, 
+      219, 
+      54
+    ], 
+    "hex": "#ccda36"
+  }, 
+  "swedish": {
+    "rgb": [
+      205, 
+      219, 
+      5
+    ], 
+    "hex": "#ccda05"
+  }, 
+  "no": {
+    "rgb": [
+      205, 
+      219, 
+      196
+    ], 
+    "hex": "#ccdac3"
+  }, 
+  "hybrid": {
+    "rgb": [
+      205, 
+      219, 
+      13
+    ], 
+    "hex": "#ccda0d"
+  }, 
+  "check": {
+    "rgb": [
+      205, 
+      219, 
+      153
+    ], 
+    "hex": "#ccda98"
+  }, 
+  "other": {
+    "rgb": [
+      205, 
+      219, 
+      100
+    ], 
+    "hex": "#ccda64"
+  }, 
+  "just once": {
+    "rgb": [
+      205, 
+      219, 
+      118
+    ], 
+    "hex": "#ccda76"
+  }, 
+  "online": {
+    "rgb": [
+      205, 
+      219, 
+      83
+    ], 
+    "hex": "#ccda53"
+  }, 
+  "terms of use": {
+    "rgb": [
+      205, 
+      219, 
+      73
+    ], 
+    "hex": "#ccda49"
+  }, 
+  "medium": {
+    "rgb": [
+      205, 
+      219, 
+      15
+    ], 
+    "hex": "#ccda0f"
+  }, 
+  "profile": {
+    "rgb": [
+      205, 
+      219, 
+      132
+    ], 
+    "hex": "#ccda83"
+  }, 
+  "map": {
+    "rgb": [
+      205, 
+      219, 
+      139
+    ], 
+    "hex": "#ccda8a"
+  }, 
+  "play": {
+    "rgb": [
+      205, 
+      219, 
+      158
+    ], 
+    "hex": "#ccda9d"
+  }, 
+  "finish": {
+    "rgb": [
+      205, 
+      219, 
+      175
+    ], 
+    "hex": "#ccdaae"
+  }, 
+  "normal": {
+    "rgb": [
+      205, 
+      219, 
+      22
+    ], 
+    "hex": "#ccda16"
+  }, 
+  "night mode": {
+    "rgb": [
+      205, 
+      219, 
+      18
+    ], 
+    "hex": "#ccda12"
+  }, 
+  "price": {
+    "rgb": [
+      205, 
+      219, 
+      89
+    ], 
+    "hex": "#ccda59"
+  }, 
+  "english": {
+    "rgb": [
+      205, 
+      219, 
+      106
+    ], 
+    "hex": "#ccda6a"
+  }, 
+  "update": {
+    "rgb": [
+      205, 
+      219, 
+      170
+    ], 
+    "hex": "#ccdaa9"
+  }, 
+  "malay": {
+    "rgb": [
+      205, 
+      219, 
+      8
+    ], 
+    "hex": "#ccda08"
+  }, 
+  "norwegian": {
+    "rgb": [
+      205, 
+      219, 
+      4
+    ], 
+    "hex": "#ccda04"
+  }, 
+  "favorites": {
+    "rgb": [
+      205, 
+      219, 
+      155
+    ], 
+    "hex": "#ccda9a"
+  }, 
+  "previous": {
+    "rgb": [
+      205, 
+      219, 
+      92
+    ], 
+    "hex": "#ccda5c"
+  }, 
+  "forgot password": {
+    "rgb": [
+      205, 
+      219, 
+      163
+    ], 
+    "hex": "#ccdaa2"
+  }, 
+  "gallery": {
+    "rgb": [
+      205, 
+      219, 
+      101
+    ], 
+    "hex": "#ccda65"
+  }, 
+  "purchase": {
+    "rgb": [
+      205, 
+      219, 
+      44
+    ], 
+    "hex": "#ccda2c"
+  }, 
+  "later": {
+    "rgb": [
+      205, 
+      219, 
+      127
+    ], 
+    "hex": "#ccda7f"
+  }, 
+  "daily": {
+    "rgb": [
+      205, 
+      219, 
+      115
+    ], 
+    "hex": "#ccda73"
+  }, 
+  "satellite": {
+    "rgb": [
+      205, 
+      219, 
+      60
+    ], 
+    "hex": "#ccda3c"
+  }, 
+  "contact": {
+    "rgb": [
+      205, 
+      219, 
+      149
+    ], 
+    "hex": "#ccda94"
+  }, 
+  "enter": {
+    "rgb": [
+      205, 
+      219, 
+      105
+    ], 
+    "hex": "#ccda69"
+  }, 
+  "rewards": {
+    "rgb": [
+      205, 
+      219, 
+      50
+    ], 
+    "hex": "#ccda32"
+  }, 
+  "uninstall": {
+    "rgb": [
+      205, 
+      219, 
+      24
+    ], 
+    "hex": "#ccda18"
+  }
+}

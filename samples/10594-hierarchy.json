@@ -1,0 +1,176 @@
+{
+  "ancestors": [
+    "android.widget.FrameLayout",
+    "android.view.ViewGroup",
+    "android.view.View",
+    "java.lang.Object"
+  ],
+  "class": "com.android.internal.policy.PhoneWindow$DecorView",
+  "bounds": [
+    0,
+    0,
+    1440,
+    2560
+  ],
+  "clickable": false,
+  "children": [
+    {
+      "ancestors": [
+        "android.widget.ImageView",
+        "android.view.View",
+        "java.lang.Object"
+      ],
+      "bounds": [
+        507,
+        84,
+        932,
+        208
+      ],
+      "clickable": false,
+      "class": "android.support.v7.widget.AppCompatImageView",
+      "componentLabel": "Image"
+    },
+    {
+      "resource-id": "com.syncme.syncmeapp:id/viewSwitcher",
+      "children": [
+        {
+          "ancestors": [
+            "android.view.View",
+            "java.lang.Object"
+          ],
+          "resource-id": "com.syncme.syncmeapp:id/activity_registration__indicator",
+          "clickable": false,
+          "class": "com.viewpagerindicator.CirclePageIndicator",
+          "bounds": [
+            0,
+            2104,
+            1440,
+            2133
+          ],
+          "componentLabel": "Pager Indicator"
+        },
+        {
+          "text": "Get Started",
+          "resource-id": "com.syncme.syncmeapp:id/fragment_phone_insertion__welcomeContinueButton",
+          "ancestors": [
+            "android.widget.Button",
+            "android.widget.TextView",
+            "android.view.View",
+            "java.lang.Object"
+          ],
+          "clickable": true,
+          "class": "android.support.v7.widget.AppCompatButton",
+          "bounds": [
+            49,
+            2175,
+            1391,
+            2343
+          ],
+          "componentLabel": "Text Button",
+          "textButtonClass": "go"
+        },
+        {
+          "text": "Search any number worldwide and identify the caller info",
+          "resource-id": "com.syncme.syncmeapp:id/activity_registration__descTextView",
+          "ancestors": [
+            "android.widget.TextView",
+            "android.view.View",
+            "java.lang.Object"
+          ],
+          "clickable": false,
+          "class": "com.syncme.ui.AutoResizeTextView",
+          "bounds": [
+            0,
+            1887,
+            1440,
+            2062
+          ],
+          "componentLabel": "Text"
+        },
+        {
+          "resource-id": "com.syncme.syncmeapp:id/map",
+          "children": [
+            {
+              "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+              ],
+              "bounds": [
+                234,
+                1750,
+                444,
+                1827
+              ],
+              "clickable": false,
+              "class": "android.widget.ImageView",
+              "componentLabel": "Image"
+            }
+          ],
+          "ancestors": [
+            "android.widget.FrameLayout",
+            "android.view.ViewGroup",
+            "android.view.View",
+            "java.lang.Object"
+          ],
+          "clickable": true,
+          "class": "com.google.android.gms.maps.MapView",
+          "bounds": [
+            216,
+            443,
+            1224,
+            1845
+          ],
+          "componentLabel": "Map View"
+        },
+        {
+          "ancestors": [
+            "android.widget.ImageView",
+            "android.view.View",
+            "java.lang.Object"
+          ],
+          "bounds": [
+            241,
+            513,
+            1199,
+            644
+          ],
+          "clickable": false,
+          "class": "android.support.v7.widget.AppCompatImageView",
+          "componentLabel": "Image"
+        },
+        {
+          "ancestors": [
+            "android.widget.ImageView",
+            "android.view.View",
+            "java.lang.Object"
+          ],
+          "bounds": [
+            216,
+            1316,
+            1224,
+            1845
+          ],
+          "clickable": false,
+          "class": "android.support.v7.widget.AppCompatImageView",
+          "componentLabel": "Image"
+        }
+      ],
+      "ancestors": [
+        "android.widget.ViewAnimator",
+        "android.widget.FrameLayout",
+        "android.view.ViewGroup",
+        "android.view.View",
+        "java.lang.Object"
+      ],
+      "clickable": false,
+      "class": "android.widget.ViewSwitcher",
+      "bounds": [
+        0,
+        271,
+        1440,
+        2392
+      ],
+      "componentLabel": "On/Off Switch"
+    }
+  ]
+}
