@@ -51,13 +51,13 @@ The dataset include the following files:
 * Screenshot images, in JPG format at 540x960 px resolution.
   [Link to sample file](samples/10594-screenshot.jpg)
   ~
-  [Download ZIP file](http://userinterfaces.aalto.fi/enrico/screenshots.zip)
+  [Download ZIP file](http://userinterfaces.aalto.fi/enrico/resources/screenshots.zip)
   (110 MB, 157 MB uncompressed)
 
 * Semantic wireframe images, in PNG format at 540x960 px resolution.
   [Link to sample file](samples/10594-wireframe.png)
   ~
-  [Download ZIP file](http://userinterfaces.aalto.fi/enrico/wireframes.zip)
+  [Download ZIP file](http://userinterfaces.aalto.fi/enrico/resources/wireframes.zip)
   (5.3 MB, 10 MB uncompressed)
 
 * Semantic annotations, in JSON format, with all the [UI components](component_legend.json), [text buttons](textButton_legend.json), and [icons](icon_legend.json) encoded in the wireframes.
@@ -65,7 +65,7 @@ The dataset include the following files:
 * View hierarchies, or DOM-like tree structure, in JSON format.
   [Link to sample file](samples/10594-hierarchy.json)
   ~
-  [Download ZIP file](http://userinterfaces.aalto.fi/enrico/hierarchies.zip)
+  [Download ZIP file](http://userinterfaces.aalto.fi/enrico/resources/hierarchies.zip)
   (1.7 MB, 16 MB uncompressed)
 
   ```
@@ -75,7 +75,7 @@ The dataset include the following files:
 * App metadata, in JSON format. Scrapped from Google Play as of August 2020.
   [Link to sample file](samples/10594-metadata.json)
   ~
-  [Download ZIP file](http://userinterfaces.aalto.fi/enrico/metadata.zip)
+  [Download ZIP file](http://userinterfaces.aalto.fi/enrico/resources/metadata.zip)
   (2.8 MB, 8 MB uncompressed)
 
   ```
