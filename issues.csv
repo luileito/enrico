@@ -1,0 +1,82 @@
+screen_id,source,description,severity
+22712,wireframe,complete mismatch,high
+55591,wireframe,complete mismatch,high
+39813,wireframe,complete mismatch,high
+2251,wireframe,complete mismatch,high
+1411,wireframe,complete mismatch,high
+2030,wireframe,complete mismatch,high
+57954,wireframe,complete mismatch,high
+23875,wireframe,complete mismatch,high
+65428,wireframe,complete mismatch,high
+39254,wireframe,complete mismatch,high
+50105,wireframe,not available,high
+50109,wireframe,not available,high
+72201,screenshot,landscape mode,high
+19141,screenshot,landscape mode,high
+1986,screenshot,selector overlay,medium
+68484,screenshot,selector overlay,medium
+2081,screenshot,loading overlay,medium
+38375,screenshot,elements still loading,medium
+41602,screenshot,elements still loading,medium
+71046,wireframe,empty webview,medium
+37707,wireframe,huge occluding element,medium
+21227,wireframe,huge occluding element,medium
+6105,wireframe,huge occluding element,medium
+37021,wireframe,huge occluding element,medium
+31002,wireframe,huge occluding element,medium
+10498,wireframe,huge occluding element,medium
+56375,wireframe,missing checkboxes,low
+63070,wireframe,missing checkboxes,low
+32802,wireframe,systematic vertical offset,low
+526,wireframe,systematic vertical offset,low
+49581,wireframe,map misalignment,low
+23788,wireframe,map misalignment,low
+51032,wireframe,missing bg image,low
+14285,wireframe,missing bg image,low
+63183,wireframe,missing bg image,low
+28511,wireframe,missing bg image,low
+71558,wireframe,missing bg image,low
+19713,wireframe,missing bg image,low
+71999,wireframe,missing bg image,low
+16140,wireframe,missing bg image,low
+41458,wireframe,missing bg image,low
+59514,wireframe,missing bg image,low
+1130,screenshot,black elements on dark bg,medium
+1753,hierarchy,completely overlapping elements,low
+2559,hierarchy,completely overlapping elements,low
+3140,hierarchy,overlapping sidebar,low
+3993,hierarchy,overlapping sidebar,low
+4068,hierarchy,overlapping dropdown,low
+4457,hierarchy,overlapping elements in footer and header,low
+4833,hierarchy,overlapping elements,low
+8522,hierarchy,overlapping sidebar,low
+9091,hierarchy,large overlapping image,low
+9371,screenshot,screenshot is a picture rather than a ui,medium
+10798,wireframe,mismatch caused by wireframe missing sidebar,medium
+13721,hierarchy,overlapping container,low
+17018,hierarchy,overlapping sidebar,low
+17169,hierarchy,overlapping sidebar,low
+17254,wireframe,complete mismatch,high
+17921,hierarchy,overlapping sidebar,low
+18262,hierarchy,overlapping sidebar,low
+20476,hierarchy,overlapping sidebar,low
+22753,hierarchy,overlapping sidebar,low
+22759,hierarchy,image overlapping footer,low
+23622,hierarchy,elements overlapped by picture,low
+24269,hierarchy,overlapping sidebar,low
+27717,hierarchy,several elements completely overlapped by picture,low
+27884,hierarchy,overlapping sidebar,low
+29573,hierarchy,overlapping elements,low
+29865,hierarchy,overlapping elements,low
+29983,hierarchy,overlapping sidebar,low
+29992,hierarchy,overlapping sidebar,low
+30007,hierarchy,overlapping sidebar,low
+30026,hierarchy,overlapping sidebar,low
+30929,hierarchy,several elements completely overlapped by picture,low
+54918,hierarchy,overlapping sidebar,low
+60754,wireframe,wrong scale on wireframe,high
+62274,hierarchy,overlapping sidebar,low
+64395,screenshot,ui elements not in wireframe or hierarchy,medium
+66899,hierarchy,overlapping sidebar,low
+67983,wireframe,partial mismatch,medium
+68492,hierarchy,overlapping sidebar,low

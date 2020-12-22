@@ -94,6 +94,29 @@ You can download additional files from [the Rico dataset](https://interactionmin
 such as UI layout vectors (8 MB), interaction traces (6 GB), and animations (214 GB).
 Enrico uses the same screen IDs (UI identifiers), so you can easily match the files in Rico.
 
+## Issues
+
+Thanks to Samuel Rosas from Aalto University,
+we have identified a few issues in the dataset that you should be aware of.
+Please see [issues.csv file](issues.csv).
+We have categorized the issues into three sources of errors (_screenshot_, _wireframe_, and _hierarchy_)
+and have included a description of the issue and a degree of severity (low, medium, high).
+Here's the number of UIs affected:
+```
+              severity
+source     low medium high  total
+---------------------------------
+screenshot   0      8    2     10
+wireframe   16      9   14     39
+hierarchy   32      0    0     32
+---------------------------------
+total       48     17   16     81
+```
+
+We have decided not to remove any of the affected UIs because these issues may or may not impact your study.
+For example, if your model or analysis doesn't rely on the view hierarchies,
+then you can ignore the issues that are flagged as "hierarchy" in the `source` column of `issues.csv`.
+
 ## Citation
 
 If you use Enrico, please use the following citation:
