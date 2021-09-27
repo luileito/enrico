@@ -82,6 +82,8 @@ The dataset include the following files:
   { "title": "Sync.ME - Caller ID, Spam Call Blocker & Contacts", "icon": ...
   ```
 
+  **Note:** There are 296 UIs with empty metadata, since by the time we scrapped Google Play they were no longer available.
+
 <!--
 * Machine learning models, in h5 format.
   We provide several topic classifiers trained on 70% of the Enrico UIs.
